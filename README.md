@@ -1,4 +1,4 @@
-# AsmrProg AI — Landing Page
+# AI — Landing Page
 
 A modern, responsive landing page for an AI infrastructure company. Built with React and Tailwind CSS, it showcases products, pricing, testimonials, integrations, and more in a polished dark-themed UI.
 
